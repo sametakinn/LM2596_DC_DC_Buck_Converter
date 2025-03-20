@@ -10,4 +10,4 @@ Bu proje, LM2596 DC-DC buck konvertör entegresi kullanılarak tasarlanmış aya
 ![PCB Tasarımı](https://github.com/sametakinn/LM2596_DC_DC_Buck_Converter/raw/main/pcb.PNG)
 
 ## 📷 3D Görünüm
-![3D Görünüm](https://github.com/sametakinn/LM2596_DC_DC_Buck_Converter/raw/main/3d.PNG)
+![3D Görünüm](https://github.com/sametakinn/LM2596_DC_DC_Buck_Converter/raw/main/3D.PNG)
